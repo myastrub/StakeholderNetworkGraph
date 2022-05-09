@@ -1,0 +1,8 @@
+INTERACTION_TYPE = 'Interaction type'
+SOURCE_STK = 'Source STK'
+TARGET_STK = 'Target STK'
+SVC = 'Service'
+OWNER = 'Owner Library'
+L1_CAP = 'Level 1 Capability'
+L2_CAP = 'Level 2 Capability'
+L3_CAP = 'Level 3 Capability'

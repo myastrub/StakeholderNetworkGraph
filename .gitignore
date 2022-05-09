@@ -1,0 +1,10 @@
+/__pycache__
+/bin
+/etc
+/include
+/lib
+pyvenv.cfg
+/share
+stk.png
+/datasets
+/._*
